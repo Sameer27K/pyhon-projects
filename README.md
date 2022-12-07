@@ -1,2 +1,2 @@
 # pyhon-projects
-Random python projects I made based off of this DataQuest.io blog. https://www.dataquest.io/blog/python-projects-for-beginners/
+Random python projects I made based off of random blogs on the internet for beginners.
